@@ -11,3 +11,5 @@ As a fun fact about me, here are my favorite foods:
 - french fries
 - chicken strips
 - oreo milkshake
+
+> "She found herself and somehow that was everything" by [Taylor Swift](https://www.vanityfair.com/hollywood/2014/10/taylor-swift-1989-secret-messages)
